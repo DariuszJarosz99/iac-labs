@@ -1,2 +1,0 @@
-- name: Install Poetry Action
-  uses: snok/install-poetry@v1.3.3
